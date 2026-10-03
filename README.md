@@ -43,7 +43,7 @@ Valid inputs: $A \ge 0$, $C > 0$ (integer), $0 < GOS < 1$. For Erlang C, option 
 ## Build and run
 
 ```bash
-gcc erlang_v2.c -o erlang -lm
+gcc erlang_calc.c -o erlang -lm
 ./erlang
 ```
 
